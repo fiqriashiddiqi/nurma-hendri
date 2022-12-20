@@ -13,6 +13,6 @@ $alamat = $_POST['alamat'];
 mysqli_query($koneksi,"insert into t_berna(nama,alamat,pesan) values('$nama','$alamat','$pesan')") or die(mysqli_error($koneksi));
  
 // mengalihkan halaman kembali ke index.php
-// header("location:index.php");
+// header("location:index.php");t_berna
  
 ?>

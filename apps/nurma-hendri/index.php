@@ -306,7 +306,7 @@ jQuery(function($){
 						<h4 class="et_pb_module_header" ><span style="font-family:'Vibur',cursive">Nurma & Hendri</span></h4>
 						<div class="et_pb_blurb_description"><p style="text-align: center;">25 Februari 2023</p></div>
 
-						<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRwMzM2OWlvb2M4cDNhMHE2YXZjMDIzODUgZmlxcmlhc2hpZGRpcWlAbQ&tmsrc=Hendriashiddiqi%40gmail.com" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a>
+						<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXRwMzM2OWlvb2M4cDNhMHE2YXZjMDIzODUgZmlxcmlhc2hpZGRpcWlAbQ&tmsrc=Hendriashiddiqi%40gmail.com" target="_blank" style="background-color: #a9916b;width: 50%;margin-left: auto;margin-right: auto;margin-top: 20px; text-align: center;">Save Date</a> -->
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
 			</div> <!-- .et_pb_blurb -->
@@ -457,7 +457,7 @@ jQuery(function($){
 				
 				
 				<div class="et_pb_button_module_wrapper et_pb_button_1_wrapper et_pb_button_alignment_center et_pb_module ">
-				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/Ngq8XXeksrf13i1m6" target="_blank" style="background-color: #a9916b!important;">Google Maps</a>
+				<a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" href="https://goo.gl/maps/7ZWy1YLAupdDUS3DA" target="_blank" style="background-color: #a9916b!important;">Google Maps</a>
 			</div>
 			</div> <!-- .et_pb_column -->
 				
