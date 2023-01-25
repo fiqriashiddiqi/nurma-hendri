@@ -444,7 +444,7 @@ jQuery(function($){
 					<div class="et_pb_blurb_container">
 						<h4 class="et_pb_module_header"><span>Resepsi</span></h4>
 						<div class="et_pb_blurb_description">
-							<p>Sabtu, 25 Februari 2023<br><strong> 11.00 s/d 14.00 WIB</strong><br> <strong>RM. Riung Panyaungan</strong><br> Jalan Raya Kamasan Banjaran no. 89, Kiangroke Kec. Banjaran,<br> Kab Bandung, 40377</p>
+							<p>Sabtu, 25 Februari 2023<br><strong> 10.00 s/d 13.00 WIB</strong><br> <strong>RM. Riung Panyaungan</strong><br> Jalan Raya Kamasan Banjaran no. 89, Kiangroke Kec. Banjaran,<br> Kab Bandung, 40377</p>
 						</div>
 					</div>
 				</div> <!-- .et_pb_blurb_content -->
