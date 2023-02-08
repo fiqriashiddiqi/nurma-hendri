@@ -765,14 +765,15 @@ jQuery(function($){
     </div>
     <div class="modal-body">
     	<div style="text-align: center">
-	    	<img src="mandiri.png" style="width: 110px;"><br>
+	    	<img src="bca.png" style="width: 110px;"><br>
 			<!-- <img src="addin.jpeg" style="width: 260px;"> -->
 
-		    <p><input type="text" value="1300020017433" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><br><strong>a.n. Nurma Pujiheryati</strong>
+		    <p><input type="text" value="4920751054" id="myInput" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><br><strong>a.n. Nurma Riana </strong>
 		    	<br><a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" onclick="myFunc()" style="background-color: #afa173!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);color: white; display:initial!important; font-size:14px">Salin Rekening </a><br></p>
 			<!-- <button style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);" onclick="myFunction()">Copy </button> -->
 			<!-- <a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" id="" style="background-color: #537a75!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);">Copy</a> -->
-			
+			<p><input type="text" value="4920973006" id="myInput1" disabled style="border: none;border-color: transparent;font-weight:700;font-size:medium;text-align: center;"><br><strong>a.n. Hendri Taufik </strong>
+		    	<br><a class="et_pb_button et_pb_button_1 et_animated et_pb_bg_layout_light" onclick="myFunc1()" style="background-color: #afa173!important;box-shadow: 0px 2px 18px 0px rgb(0 0 0 / 20%);color: white; display:initial!important; font-size:14px">Salin Rekening </a><br></p>
     	</div>
     </div>
     
@@ -785,6 +786,31 @@ jQuery(function($){
 	function myFunc() {
   // Get the text field
   var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+	// async function myFunction() {
+	// 	var copyText = document.getElementById("myInput");
+	// 	copyText.select();
+	// 	copyText.setSelectionRange(0, 99999);
+	// 	try {
+	// 		await navigator.clipboard.writeText(copyText);
+	// 		console.log('Page URL copied to clipboard');
+	// 	} catch (err) {
+	// 		console.error('Failed to copy: ', err);
+	// 	}
+	}
+
+	function myFunc1() {
+  // Get the text field
+  var copyText = document.getElementById("myInput1");
 
   // Select the text field
   copyText.select();
