@@ -10,7 +10,7 @@ include('../nurma-hendri/koneksi.php');
 	<meta property="og:title" content="Undangan pernikahan Nurma dan Hendri, Sabtu 25 Februari 2023." />
 	<meta property="og:url" content="https://nurma-hendri.sebar-undangan.com/" />
 	<meta property="og:description" content="Undangan pernikahan Nurma dan Hendri, Sabtu 25 Februari 2023.">
-	<meta property="og:image" content="https://nurma-hendri.sebar-undangan.com/1.bp.blogspot.com/-FuprKxe6I3I/X3waINlnqnI/AAAAAAAAFzo/DF1N99KVgt8ZjEiaNubMyRjz17nxGNAxQCLcBGAsYHQ/s16000/AZ--531.jpg">
+	<meta property="og:image" content="https://nurma-hendri.sebar-undangan.com/1.bp.blogspot.com/-FuprKxe6I3I/X3waINlnqnI/AAAAAAAAFzo/DF1N99KVgt8ZjEiaNubMyRjz17nxGNAxQCLcBGAsYHQ/s16000/IMG_1055.JPG">
 	<meta property="og:type" content="article" />
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<link rel="pingback" href="https://ngantenstory.com/xmlrpc.php" />
